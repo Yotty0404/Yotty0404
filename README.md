@@ -1,4 +1,4 @@
-# <img height="30" src="img/qiita.png">Qiita Articles
+# <img height="27" src="img/qiita.png">Qiita Articles
 
 <!--[START POSTS]-->
 - [対戦型ポケモンWordle「VS Pokémon Wordle」を作ってみた](https://qiita.com/YottyPG/items/c4488fef8ad09024a181)
